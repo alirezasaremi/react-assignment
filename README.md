@@ -2,7 +2,7 @@
 A react project for improving code skills. Using Ant Design, Json Server, etc.
 
 ## Installation
-`npm install -g json-server`
+`npm install -g json-server@0.17.4`
 
 `npm install`
 
