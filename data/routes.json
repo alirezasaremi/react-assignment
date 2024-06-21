@@ -1,0 +1,7 @@
+{
+  "/api/auth": "/users",
+  "/api/chart/line": "/lineChart",
+  "/api/chart/bar": "/barChart",
+  "/api/chart/pie": "/pieChart",
+  "/api/log": "/history"
+}

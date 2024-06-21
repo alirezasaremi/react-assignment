@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "jwt": "eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBhc3N3b3JkIjoiYWRtaW4iLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.6kGkfRZUYrprIKPMrsQYRDxOxVMCMPQROtVJf3c0DMc"
+    }
+  ],
+  "lineChart": {
+    "x": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "y": [
+      1,
+      6,
+      3,
+      6,
+      1
+    ]
+  },
+  "barChart": {
+    "x": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "y": [
+      1,
+      6,
+      3,
+      6,
+      1
+    ]
+  },
+  "pieChart": {
+    "values": [
+      500,
+      652,
+      520,
+      780,
+      1000
+    ],
+    "labels": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  "history": [
+    {
+      "page": "Dashboard",
+      "section": "Turbine Chart",
+      "date": "2024-06-21T10:20:08.108Z",
+      "id": 1
+    },
+    {
+      "page": "Dashboard",
+      "section": "Turbine Chart",
+      "date": "2024-06-21T10:20:08.110Z",
+      "id": 2
+    },
+    {
+      "page": "Dashboard",
+      "section": "Combustion Chamber Chart",
+      "date": "2024-06-21T10:20:09.120Z",
+      "id": 3
+    },
+    {
+      "page": "Dashboard",
+      "section": "Combustion Chamber Chart",
+      "date": "2024-06-21T10:20:09.122Z",
+      "id": 4
+    }
+  ]
+}

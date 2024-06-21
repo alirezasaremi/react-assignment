@@ -1,0 +1,60 @@
+
+body {
+  margin: 0;
+  font-family: "Noto Sans Arabic", sans-serif;
+}
+
+*{
+  font-family: "Noto Sans Arabic", sans-serif;
+}
+
+.graph-model{
+  width: 80%;
+  min-height: 240px;
+  margin: 0 auto;
+  padding: 16px 48px;
+  border: solid 1px #d1d1d1;
+  border-radius: 8px;
+}
+
+.chart-container{
+  width: 70%;
+  min-height: 600px;
+  margin: 12px auto;
+}
+
+.chart-mode-switch{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+.flex-rb{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.combustion-chamber, .turbine, .compressor{
+  width: 180px;
+  height: 60px;
+  border-radius: 8px;
+  background: #eee;
+  text-align: center;
+  border: solid 1px #ccc;
+  cursor: pointer;
+}
+
+.combustion-chamber button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.combustion-chamber{
+  margin: 24px auto;
+}
